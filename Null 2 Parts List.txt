@@ -1,0 +1,19 @@
+Null 2 Parts List
+
+For the circuitry:
+1 x Null 2 PCB (1.6mm thick)
+2 x SMD tactile buttons (1.5mm tall, 5x5mm)
+3 x THT tactile right angle buttons
+2 x THT right angle switches (8.8x3x2mm with a 2mm long lever)
+1 x Set of rubber DS Lite membranes
+1 x TP4056 charging module (don't play and charge)
+1 x SMD 0805 3.9R Resistor
+1 x 3.2" ILI9341 screen 240x320 https://www.aliexpress.com/item/32861524235.html
+1 x PAM8403 module
+1 x PCM5102A module (careful, there are different shapes available)
+2 x 15mm round speakers
+
+For the acrylic case:
+4 x acrylic bolts M3 x 25mm
+4 x M3 acrylic nuts
+1 x set of laser cut acrylic parts
